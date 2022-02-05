@@ -1,7 +1,0 @@
-obj
-libs
-dist
-*.so
-*.jks
-*.tar.*
-*.zip
