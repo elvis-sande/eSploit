@@ -1,3 +1,4 @@
+### eSploit is an update to [cSploit](https://github.com/cSploit/android/) which is no longer supported by the devs
 # eSploit: Android network pentesting suite
 
 <img src="http://i.imgur.com/cFll5P9.jpg" width="250" />
